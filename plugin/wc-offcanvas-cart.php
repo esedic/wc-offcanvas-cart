@@ -2,7 +2,12 @@
 /**
  * Plugin Name: WC Offcanvas Cart
  * Description: Opens a UIkit offcanvas sidebar with the cart contents when a product is added to the cart (YOOtheme).
+ * Plugin URI:  https://spletodrom.si
  * Version: 1.0.1
+ * Author: Elvis Sedić
+ * Author URI: https://spletodrom.si
+ * License: GPL v2 or later
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires Plugins: woocommerce
  * Text Domain: wc-offcanvas-cart
  */
